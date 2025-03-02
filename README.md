@@ -1,6 +1,6 @@
 # Future-Proof Cryptographic System (FPCS)
 
-A state-of-the-art quantum-resistant cryptographic hashing system implementing the Anti-Resonance Hashing (ARH) algorithm. This system is designed to provide robust cryptographic properties while maintaining resistance against both classical and quantum computing attacks.
+A high-entropy quantum-resistant cryptographic hash function that uses chaos-based transformations and anti-resonance patterns to achieve optimal avalanche effects and protect against both classical and quantum attacks.
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
